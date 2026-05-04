@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Environment secrets – never commit your actual key
+.env
+
+# macOS
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+
+# Native builds
+ios/
+android/
