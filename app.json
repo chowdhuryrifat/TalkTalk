@@ -35,7 +35,7 @@
     },
     "plugins": [
       [
-        "@react-native-voice/voice",
+        "expo-speech-recognition",
         {
           "microphonePermission": "Allow LinguaVoice to access your microphone.",
           "speechRecognitionPermission": "Allow LinguaVoice to use speech recognition."
